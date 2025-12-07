@@ -1,3 +1,8 @@
+# dataset
+lmd_matched
+mini_dataset
+lmd_matched.tar.gz
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
