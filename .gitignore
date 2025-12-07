@@ -2,6 +2,7 @@
 lmd_matched
 mini_dataset
 lmd_matched.tar.gz
+processed
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
