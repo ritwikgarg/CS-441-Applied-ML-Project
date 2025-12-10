@@ -3,6 +3,8 @@ lmd_matched
 mini_dataset
 lmd_matched.tar.gz
 processed
+snippets.npz
+snippets_old.npz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
