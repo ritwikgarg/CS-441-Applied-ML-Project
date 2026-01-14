@@ -1,4 +1,4 @@
-# **Melody Similarity Retrieval Project**
+# **Melody Similarity Retrieval**
 
 This project explores methods for **melodic similarity retrieval** using symbolic music (MIDI). It includes a full preprocessing pipeline, classical and neural retrieval baselines, and trained models for embedding melodies into a vector space.
 
